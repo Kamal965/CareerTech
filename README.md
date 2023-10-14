@@ -6,7 +6,7 @@ This website is designed to showcase my projects, portfolio, and resume, serving
 
 ## Motivation
 
-I am a final-year undergraduate student majoring in Applied Mathematics. Over the years, I have developed a passion for mathematical modeling, machine learning, data analysis, and problem-solving. This website is a showcase of my academic and professional experiences.
+I am a final-year undergraduate student majoring in Applied Mathematics. Over the years, I have developed a passion for mathematical modeling, machine learning, data analysis, and problem-solving. This website is a showcase of my academic and professional experiences. As a bonus, it's a good exercise to work on my HTML, CSS, and JavaScript.
 
 ## Features
 
