@@ -2,12 +2,13 @@
 * {
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
 }
 
 /* Apply a background color and set font styles for the body */
 body {
     font-family: Arial, sans-serif;
-    background-color: #f3f3f3;
+    background-color: #f7f7f7;
     color: #333;
     margin: 0;
     padding: 0;
@@ -42,10 +43,10 @@ nav a {
 /* Style the main content sections */
 section {
     padding: 20px;
-    background-color: #fff;
+    background-color: #f5f5dc;
     margin: 20px;
     border-radius: 5px;
-    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
 }
 
 /* Style the footer */
@@ -63,5 +64,16 @@ a {
 }
 
 a:hover {
+    text-decoration: underline;
+}
+
+/* Add some color to specific elements */
+/* Example: Add a background color and change text color for links within sections */
+section a {
+    color: #ff6f61;
+}
+
+section a:hover {
+    color: #ff564b;
     text-decoration: underline;
 }
